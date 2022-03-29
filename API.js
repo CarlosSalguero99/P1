@@ -1,6 +1,0 @@
-/*
-
-Code
-For The API
-
-*/
