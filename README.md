@@ -2,6 +2,7 @@
 Repositiorio del examen parcial 1
 
 Miembros:
+
 -Jorge Martínez
 -Carlos Salguero
 
